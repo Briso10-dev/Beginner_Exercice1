@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <hmtl lang="en">
 <head>
-   <title>  Exercice 1 </title>
 </head>
 
 <body>
